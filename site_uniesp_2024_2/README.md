@@ -1,7 +1,3 @@
-Aqui está uma versão aprimorada para o seu README:
-
----
-
 # Site Uniesp 2024
 
 Projeto desenvolvido como parte da disciplina **Tecnologia para Front-End Avançado** da UNIESP. Este site foi criado com foco em aprendizado e aplicação de boas práticas no desenvolvimento de interfaces modernas.
