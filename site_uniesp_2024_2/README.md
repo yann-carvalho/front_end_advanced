@@ -45,7 +45,7 @@ Projeto desenvolvido como parte da disciplina **Tecnologia para Front-End Avanç
 
 3. **Inicie o JSON-Server**:
    ```bash
-   npm run backend
+   npm run server
    ```
 
 4. **Inicie o projeto**:
